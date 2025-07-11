@@ -1,4 +1,4 @@
-David Heistein, of [Profitwise Accounting](https://www.profitwiseaccounting.com/){:target="_blank"}, prepared and filed taxes for my LLC
+[David Heistein](https://www.linkedin.com/in/daveheistein/){:target="_blank"}, of [Profitwise Accounting](https://www.profitwiseaccounting.com/){:target="_blank"}, prepared and filed taxes for my LLC
 as a sole proprietorship on my personal taxes instead of as a partnership on
 the IRS 1065 form and did not send out K-1s to the partners.
 
