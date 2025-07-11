@@ -1,5 +1,5 @@
 David Heistein, of Profitwise Accounting, prepared and filed taxes for my LLC
-as a sole proprietorship on my personal taxes instead of a as partnership on
+as a sole proprietorship on my personal taxes instead of as a partnership on
 the IRS 1065 form and did not send out K-1s.
 
 I believe he was extremely negligent and/or incompetent in this regard.
