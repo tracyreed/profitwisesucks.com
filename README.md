@@ -9,10 +9,10 @@ a partnership. The LLC formation papers and operating agreement showed 3
 partners. But Heistein never even asked for the IRS EIN letter, formation
 papers, operating agreement, or any other documentation that I believe he
 should have when filing taxes for such an entity which would have shown that it
-was a partnership. This information was subpoenad from him and he was unable to
-provide it because he did not have it.  I believe he should have had it. Every
-other tax preparer I have dealt with since has asked for it without my
-prompting.
+was a partnership. This information was [subpoenad](/Exhibit 202.pdf){:target="_blank"} from him and he was unable to
+provide it, presumably because he did not have it.  I believe he should have
+had it. Every other tax preparer I have dealt with since has asked for it
+without my prompting.
 
 This was my first business entity. It was my first LLC. Knowing absolutely
 nothing about business taxes I was depending on Heistein of Profitwise
@@ -21,7 +21,7 @@ knowing that our taxes were being filed incorrectly. I did not learn of this
 problem until the opposing attorney in a legal matter pointed it out. This
 GREATLY complicated the legal matter and cost us dearly.
 
-Heistein was deposed in the legal matter. At 21:9-24 we can see that Heistein
+[Heistein was deposed](/Heistein, David.pdf) in the legal matter. At 21:9-24 we can see that Heistein
 was asked about what type of business entity it was.
 
 "So when Tracy had first come to us and it was an LLC, you know, we had some
@@ -30,7 +30,7 @@ some reason I think we decided to move forward with the single-member LLC, as
 opposed to a partnership, because that would have alleviated penalties, late
 filing penalties, for him.  based on the information we had at the time, we
 decided to move forward with a single member.  understanding that there wasn't
-another partner involved with the business."
+another partner involved with the business." - Heistein 21:9-24, March 3 2022
 
 "For some reason"? How about going with what the governmentally issued and
 approved documentation says?
