@@ -190,4 +190,4 @@ after me for anything would be wasting their time anyway. This is published in
 the interest of preventing someone else in the community from befalling the
 same ill fate that I have.
 
-Email me at treed@ultraviolet.org with questions or comments.
+Email me at treed@ultraviolet.org with questions.
