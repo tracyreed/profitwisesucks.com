@@ -9,10 +9,11 @@ a partnership. The LLC formation papers and operating agreement showed 3
 partners. But Heistein never even asked for the IRS EIN letter, formation
 papers, operating agreement, or any other documentation that I believe he
 should have when filing taxes for such an entity which would have shown that it
-was a partnership. This information was [subpoenad](/Exhibit 202.pdf){:target="_blank"} (Attachement 3, C(2) "All documentation showing the members of Copilotco, LLC") from him and he was unable to
-provide it, presumably because he did not have it.  I believe he should have
-had it. Every other tax preparer I have dealt with since has asked for it
-without my prompting.
+was a partnership. This information was [subpoenad](/Exhibit 202.pdf){:target="_blank"} 
+(Attachement 3, C(2)) "All documentation showing the members of Copilotco,
+LLC") from him and he failed to provide it, presumably because he did not have
+it.  I believe he should have had it. Every other tax preparer I have dealt
+with since has asked for it without my prompting.
 
 This was my first business entity. It was my first LLC. Knowing absolutely
 nothing about business taxes I was depending on Heistein of Profitwise
@@ -25,15 +26,16 @@ GREATLY complicated the legal matter and cost us dearly.
 was asked about what type of business entity it was.
 
 "So when Tracy had first come to us and it was an LLC, you know, we had some
-questions about, you know, did he have this other partner or not.  think -- for
+questions about, you know, did he have this other partner or not. You know, and I think think -- for
 some reason I think we decided to move forward with the single-member LLC, as
 opposed to a partnership, because that would have alleviated penalties, late
-filing penalties, for him.  based on the information we had at the time, we
-decided to move forward with a single member.  understanding that there wasn't
+filing penalties, for him.  And I think, based on the information we had at the time, we
+decided to move forward with a single member.  It was our understanding that there wasn't
 another partner involved with the business." - Heistein 21:9-24, March 3 2022
 
-"For some reason"? How about going with what the governmentally issued and
-approved documentation says?
+"...for some reason..."? How about going with what the government provided
+documentation says? "...alleviated penalties..." Does this imply that Heistein
+would file improper taxes to save his client from penalties?
 
 Discussion of the documents submitted by Heistein in response to subpoena
 begins around page 68. Various tax returns, business income or loss, etc. Note
@@ -56,13 +58,13 @@ Q And that was at the inception of the relationship; correct?
 
 A Correct.
 
-Furthermore, in an [email dated July 15, 2020](/'Re_ Statements needed.pdf'){:target="_blank"}  (this is well before Heistein's deposition testimony of 3/3/2022)
+Furthermore, in an [email dated July 15, 2020](/Re_ Statements needed.pdf){:target="_blank"}  (this is well before Heistein's deposition testimony of 3/3/2022)
 I specifically call out that there are partners and that she was stealing money
 from the company. This should have been a big clue to Heistein that the taxes
-had been filed improperly all these years. Having been reminder of the partner
+had been filed improperly all these years. Having been reminded of the partner
 situation in this email, I do not understand why it would appear that he
 testified to the contrary. I also do not understand why he did not mention the
-inconsistancy with how we had been filing taxes all these years.
+inconsistancy with how we had been filing taxes all these years when I sent him that email.
 
 Note that the subpoena referenced above called for Heistein to provide "All
 documentation of communications, if any, of thefts of funds from Copilotco,
