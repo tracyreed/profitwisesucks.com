@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: gacts/directory-listing@v1
         with:
-          target: ./irs-notices
+          target: ./irs-notices/
           # target: .
           # ignore: |
           #   build/**
@@ -23,4 +23,4 @@ jobs:
       - uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./irs-notices
+          publish_dir: ./irs-notices/
