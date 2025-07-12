@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: gacts/directory-listing@v1
         with:
-          target: ./assets
+          target: ./irs-notices
           # target: .
           # ignore: |
           #   build/**
