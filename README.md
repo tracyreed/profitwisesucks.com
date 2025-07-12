@@ -78,7 +78,7 @@ her theft as owner draw for tax purposes. So I ended up paying big taxes on
 that. It turns out this was not only sub-optimal in terms of taxation but it
 also allowed the opposing attorney in our legal matter to claim that since we
 accounted for it as owner draw on our taxes and not some sort of theft or
-embezzlement that is was therefore an authorized draw.
+embezzlement and that this was therefore an authorized draw.
 
 This, combined with the fact that Hamby was not shown as a partner on the tax
 forms (no 1065 filed or K1's issues), allowed the opposing attorney to spend
@@ -138,16 +138,25 @@ on the company account. As far as I can tell, she was unable to produce
 authorization or a business case for any of them.
 
 This is just a sampling. There is so much more crazy financial behavior in her [deposition](/Deposition of Trang Reed - Transcript - Full - VI[1][2][1].pdf){:target="_blank"}. 
+
 You would be forgiven for thinking this should be an open and shut case, right?
 But I believe that her attorney knew that he could make such a huge complicated
 mess out of the tax matters thanks to Heistein's work that his client could
 freely tell the truth about her activities and even we could never afford to
 see the matter through to completion. 
 
-Heistein's name was mentioned SO MANY TIMES throughout the matter and we aren't
-even done yet. We even had one particular deposition where I was called upon to
-testify in my capacity as the person most knowledgable in Copilotco tax matters
-and it was all about the taxes Heistein had prepared.
+Heistein's name was mentioned SO MANY TIMES throughout the matter We even had
+one particular deposition day where I was called upon to testify in my capacity
+as the person most knowledgable in Copilotco tax matters and it was all about
+the taxes Heistein had prepared.
+
+Feb 4 2022 deposition of Trang Reed the word “tax” appears 37 times.
+
+Mar 15 2022 deposition of Roderick Hamby the word “tax” appears 127 times.
+
+Mar 16 2022 deposition of Tracy Reed in his personal capacity the word “tax” appears 188 times and “Heistein” appears 37 times.
+
+Oct 31 2023 deposition of Tracy Reed as PMK of Copilotco the word “tax” appears 181 times and “Heistein” appears 168 times and "partnership" is mentioned 36 times.
 
 And when we finally did dismiss it because it was now far too complicated and
 expensive to possibly make it to the end, she turns around and sues us (Reed,
@@ -157,14 +166,14 @@ thousands of dollars.  And it is my belief that Heistein is to blame for this
 matter not only not being resolved long ago, but that it continues.
 
 I am no attorney, accountant, or tax expert. I did not know anything about
-business taxes, K1s, or legal entities. I created the LLC thing through
+business taxes, K1s, or legal entities. I created the LLC through
 LegalZoom. I was just a computer nerd trying to get my first small business and
-entrepreneurial effort started. I'm not an MBA (although defendant Trang is,
-ironically). I rely on professionals to keep me out of tax trouble,
-particularly in these complicated business situations. And the way I see it,
-Heistein totally failed me.
+first serious entrepreneurial effort started. I'm not an MBA (although
+defendant Trang is, ironically). I rely on professionals to keep me out of tax
+trouble, particularly in these complicated business situations. And the way I
+see it, Heistein totally failed me.
 
-This has cost me tens of thousands in penalties to the IRS, hundreds of
+This has cost me [tens of thousands in penalties to the IRS](/irs-notices), hundreds of
 thousands in legal fees, and thousands more to have the taxes prepared
 competently and correctly. The corrected taxes were prepared, filed, and
 accepted by the IRS.
