@@ -22,8 +22,9 @@ knowing that our taxes were being filed incorrectly. I did not learn of this
 problem until the opposing attorney in a legal matter pointed it out. This
 GREATLY complicated the legal matter and cost us dearly.
 
-[Heistein was deposed](/Heistein, David.pdf){:target="_blank"} in the legal matter. At 21:9-24 we can see that Heistein
-was asked about what type of business entity it was.
+[Heistein was deposed](/Heistein, David.pdf){:target="_blank"} in the legal
+matter. At Heistein Dep. 21:9-24 Mar 3, 2022, we can see that Heistein was asked
+about what type of business entity it was.
 
 "So when Tracy had first come to us and it was an LLC, you know, we had some
 questions about, you know, did he have this other partner or not. You know, and I think think -- for
@@ -31,7 +32,7 @@ some reason I think we decided to move forward with the single-member LLC, as
 opposed to a partnership, because that would have alleviated penalties, late
 filing penalties, for him.  And I think, based on the information we had at the time, we
 decided to move forward with a single member.  It was our understanding that there wasn't
-another partner involved with the business." - Heistein 21:9-24, March 3 2022
+another partner involved with the business." - Heistein Dep. 21:9-24, March 3 2022
 
 "...for some reason..."? How about going with what the government provided
 documentation says? "...alleviated penalties..." Does this imply that Heistein
@@ -42,12 +43,12 @@ begins around page 68. Various tax returns, business income or loss, etc. Note
 the lack of EIN letter from IRS, formation documents, operating agreement, etc.
 My current tax preparer has all of that. Why didn't Heistein?
 
-The name of the partner, Hamby, appears first at 28:15. "I mean, may be
+The name of the partner, Hamby, appears first at Heistein Dep. 28:15, March 3 2022. "I mean, may be
 potential that, you know, that name was maybe brought up, you know, when we
 first met with Tracy originally." If there is a question about a potential
 partner, wouldn't you look to the formation papers?
 
-And at 89:10 we have:
+And at Heistein Dep. 89:10, Mar 2 2022 we have:
 
 Q And I know you don't remember the name necessarily, Roderick Hamby, but you
 do recall a discussion about another potential participant in the LLC; correct?
@@ -93,33 +94,33 @@ deposition could not have gone any better for us. Upon defendant's deposition,
 we thought this matter would be over quickly with a reasonable settlement.
 
 She acknowledged that Hamby is a partner with an ownership interest in the
-company (Trang 179:4-24, Mar 23 2022).
+company (Trang Dep. 179:4-24, Mar 23, 2022).
 
 She would take money out without coordinating with anyone to the point that
 overdraft fees happened and she just relied on the bank teller to tell her when
-the account was empty. (Trang 106:9-14, Feb 4, 2022)
+the account was empty. (Trang Dep. 106:9-14, Feb 4, 2022)
 
 She would write checks to herself on the company account payable to cash
-without authorization. (Trang 108-110:15-10 Feb 4, 2022)
+without authorization. (Trang Dep. 108:15-110:10 Feb 4, 2022)
 
-She bought herself an iPad/Macbook/etc (which she never provided to the company) (Trang 117:9-23 Feb 4, 2022).
+She bought herself an iPad/Macbook/etc (which she never provided to the company) (Trang Dep. 117:9-23, Feb 4, 2022).
 
 She was paying off her personal Target card in the thousands which she used for
-personal expenses from the company account. (Trang 128-129:19-16)
+personal expenses from the company account. (Trang Dep. 128-129:19-16, Feb 4, 2022)
 
 This activity continued even after she was well aware that she should not be
 spending money from the company account and was to no longer be involved in
 company operations.
 
-She made it very clear on page 133 lines 3-11:
+She made it very clear at Trang Dep. 133:3-11, Feb 4, 2022:
 
 "I never treat Copilotco U.S. Bank account as a business account. In my mind,
 since the Day One we start the business and open that U.S. Bank account, it is
 always our joint account and I treat it just like the other Bank of America
 account I own and Tracy owned and we always take the money out in any account
 as our income and we file tax for it.  So I don't have that concept of the
-business account or use for personal account for personal things." - Trang,
-133:3-11, Feb 4 2022.
+business account or use for personal account for personal things." - Trang Dep.
+133:3-11, Feb 4, 2022.
 
 Throughout her deposition she explains how she paid personal expenses out of
 the company account, did not get authorization, and used the company account
@@ -129,9 +130,7 @@ Q And Mr. Reed authorized that to be taken from the business?
 
 A I don't need his authorization to take cash out. I have never had that with him.
 
-- Trang, 90:19-22 Feb 4, 2022
-
-So she and I agree that she never had authorization.
+- Trang Dep. 90:19-22 Feb 4, 2022
 
 A "bill of particulars" was produced showing all of her personal expenditures
 on the company account. As far as I can tell, she was unable to produce
@@ -139,13 +138,13 @@ authorization or a business case for any of them.
 
 This is just a sampling. There is so much more crazy financial behavior in her [deposition](/Deposition of Trang Reed - Transcript - Full - VI[1][2][1].pdf){:target="_blank"}. 
 
-You would be forgiven for thinking this should be an open and shut case, right?
-But I believe that her attorney knew that he could make such a huge complicated
-mess out of the tax matters thanks to Heistein's work that his client could
-freely tell the truth about her activities and even we could never afford to
-see the matter through to completion. 
+So this should be an open and shut case, right?  But I believe that her
+attorney knew that he could make such a huge complicated mess out of the tax
+matters thanks to Heistein's work that his client could freely tell the truth
+about her activities and even then we could never afford to see the matter
+through to completion. 
 
-Heistein's name was mentioned SO MANY TIMES throughout the matter We even had
+Heistein's name was mentioned SO MANY TIMES throughout the matter. We even had
 one particular deposition day where I was called upon to testify in my capacity
 as the person most knowledgable in Copilotco tax matters and it was all about
 the taxes Heistein had prepared.
@@ -162,7 +161,7 @@ And when we finally did dismiss it because it was now far too complicated and
 expensive to possibly make it to the end, she turns around and sues us (Reed,
 Hamby, AND the attorneys representing us) for malicious prosecution! So it's
 not even over yet. The expenses continue to rack up, well into the hundreds of
-thousands of dollars.  And it is my belief that Heistein is to blame for this
+thousands of dollars. And it is my belief that Heistein is to blame for this
 matter not only not being resolved long ago, but that it continues.
 
 I am no attorney, accountant, or tax expert. I did not know anything about
@@ -184,11 +183,11 @@ LEGAL QUAGMIRE LIKE I DID.
 
 All of the above is true to the best of my knowledge and I have done the best I
 can to support it all with documentation. Note that the truth is an affirmative
-defense to any accusations of libel so I'm in good stead there. I'm also
-recently divorced, broke, had an insolvent business thanks to an embezzling
-partner, and have negative net worth with no assets to speak of. So anyone
-coming after me for anything would be wasting their time anyway. This is
-published in the interest of preventing someone else in the community from
-befalling the same ill fate that I have.
+defense to accusations of libel so I'm in good stead there. I'm also recently
+divorced, broke, had an insolvent business thanks to an embezzling partner, and
+have deeply negative net worth with no assets to speak of. So anyone coming
+after me for anything would be wasting their time anyway. This is published in
+the interest of preventing someone else in the community from befalling the
+same ill fate that I have.
 
 Email me at treed@ultraviolet.org with questions.
