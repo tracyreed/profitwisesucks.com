@@ -2,7 +2,7 @@
 as a sole proprietorship on my personal taxes instead of as a partnership on
 the IRS 1065 form and did not send out K-1s to the partners.
 
-I believe he was extremely negligent and/or incompetent in this regard.
+I believe he was extremely negligent and/or incompetent in this regard and that he has cost me tremendously.
 
 The IRS EIN letter I was sent when I formed the LLC clearly showed that it was
 a partnership. The LLC formation papers and operating agreement showed 3
