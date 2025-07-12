@@ -80,17 +80,17 @@ also allowed the opposing attorney in our legal matter to claim that since we
 accounted for it as owner draw on our taxes and not some sort of theft or
 embezzlement that is was therefore an authorized draw.
 
-This, combined with the fact that Hamby was not shown as a partner, allowed the
-opposing attorney to spend hours and many thousands of dollars arguing that
-Hamby was not a partner, that he had no standing, that the withdrawls were
-authorized thus there was no embezzlment/theft/breach of contract. This allowed
-him to drag the matter out so far that we effectively ran out of money to
-pursue it and had to dismiss the case.
+This, combined with the fact that Hamby was not shown as a partner on the tax
+forms (no 1065 filed or K1's issues), allowed the opposing attorney to spend
+hours and many thousands of dollars arguing that Hamby was not a partner and
+that he had no standing. This allowed him to drag the matter out so far that it
+became uneconomical to continue and upon discussion with council we decided to
+dismiss the case.
 
 We were forced to dismiss the case DESPITE THE FACT THAT THE PLAINTIFF ADMITTED
 TO EVERYTHING SHE WAS ACCUSED OF IN HER DEPOSITION TESTIMONY. Really, her
-deposition could not have gone any better for us. We thought this matter would
-soon be over with a reasonable settlement.  
+deposition could not have gone any better for us. Upon defendant's deposition,
+we thought this matter would be over quickly with a reasonable settlement.
 
 She acknowledged that Hamby is a partner with an ownership interest in the
 company (Trang 179:4-24, Mar 23 2022).
@@ -104,15 +104,26 @@ without authorization. (Trang 108-110:15-10 Feb 4, 2022)
 
 She bought herself an iPad/Macbook/etc (which she never provided to the company) (Trang 117:9-23 Feb 4, 2022).
 
-She was paying off her personal Target card which used for personal expenses from the company account. (Trang 128-129:19-16)
+She was paying off her personal Target card in the thousands which she used for
+personal expenses from the company account. (Trang 128-129:19-16)
 
-This activity continued even after she was well aware that she should not be spending money from the company account.
+This activity continued even after she was well aware that she should not be
+spending money from the company account and was to no longer be involved in
+company operations.
 
 She made it very clear on page 133 lines 3-11:
 
-"I never treat Copilotco U.S. Bank account as a business account. In my mind, since the Day One we start the business and open that U.S. Bank account, it is always our joint account and I treat it just like the other Bank of America account I own and Tracy owned and we always take the money out in any account as our income and we file tax for it.  So I don't have that concept of the business account or use for personal account for personal things." - Trang, 133:3-11, Feb 4 2022.
+"I never treat Copilotco U.S. Bank account as a business account. In my mind,
+since the Day One we start the business and open that U.S. Bank account, it is
+always our joint account and I treat it just like the other Bank of America
+account I own and Tracy owned and we always take the money out in any account
+as our income and we file tax for it.  So I don't have that concept of the
+business account or use for personal account for personal things." - Trang,
+133:3-11, Feb 4 2022.
 
-Throughout her deposition she explains how she paid personal expenses out of the company account, did not get authorization, and used the company account like her own personal piggy bank.
+Throughout her deposition she explains how she paid personal expenses out of
+the company account, did not get authorization, and used the company account
+like her own personal piggy bank.
 
 Q And Mr. Reed authorized that to be taken from the business?
 
@@ -120,17 +131,18 @@ A I don't need his authorization to take cash out. I have never had that with hi
 
 - Trang, 90:19-22 Feb 4, 2022
 
-So she never had authorization. I agree. 
+So she and I agree that she never had authorization.
 
 A "bill of particulars" was produced showing all of her personal expenditures
 on the company account. As far as I can tell, she was unable to produce
 authorization or a business case for any of them.
 
-This is just a sampling. There is so much more in her [deposition](/Deposition of Trang Reed - Transcript - Full - VI[1][2][1].pdf){:target="_blank"}. You would
-think this would be an open and shut case, right? But I believe that her
-attorney knew that he could make such a huge complicated mess out of the tax
-matters thanks to Heistein's work that we could never afford to see the matter
-through to completion. 
+This is just a sampling. There is so much more crazy financial behavior in her [deposition](/Deposition of Trang Reed - Transcript - Full - VI[1][2][1].pdf){:target="_blank"}. 
+You would be forgiven for thinking this should be an open and shut case, right?
+But I believe that her attorney knew that he could make such a huge complicated
+mess out of the tax matters thanks to Heistein's work that his client could
+freely tell the truth about her activities and even we could never afford to
+see the matter through to completion. 
 
 Heistein's name was mentioned SO MANY TIMES throughout the matter and we aren't
 even done yet. We even had one particular deposition where I was called upon to
@@ -144,15 +156,16 @@ not even over yet. The expenses continue to rack up, well into the hundreds of
 thousands of dollars.  And it is my belief that Heistein is to blame for this
 matter not only not being resolved long ago, but that it continues.
 
-I did not know anything about business taxes, K1, or legal entities. I created
-this thing through LegalZoom. I was just a guy trying to get my first small
-business and entrepreneurial effort started. I'm not an MBA. I'm not am
-attorney. I'm a computer nerd. I need to rely on professionals to keep me out
-of tax trouble, particularly in these complicated business situations. Heistein
-totally failed me.
+I am no attorney, accountant, or tax expert. I did not know anything about
+business taxes, K1s, or legal entities. I created the LLC thing through
+LegalZoom. I was just a computer nerd trying to get my first small business and
+entrepreneurial effort started. I'm not an MBA (although defendant Trang is,
+ironically). I rely on professionals to keep me out of tax trouble,
+particularly in these complicated business situations. And the way I see it,
+Heistein totally failed me.
 
-This has cost me tens of thousands in penalties to the IRS, possibly hundreds
-of thousands in legal fees, and thousands more to have the taxes prepared
+This has cost me tens of thousands in penalties to the IRS, hundreds of
+thousands in legal fees, and thousands more to have the taxes prepared
 competently and correctly. The corrected taxes were prepared, filed, and
 accepted by the IRS.
 
@@ -160,17 +173,13 @@ DO NOT USE DAVID HEISTEIN OF PROFITWISE ACCOUNTING TO PREPARE YOUR TAXES UNLESS
 YOU WANT TO FIND YOURSELF IN AN INTRACTIBLY COMPLICATED AND RUINOUSLY EXPENSIVE
 LEGAL QUAGMIRE LIKE I DID.
 
-I am no attorney, accountant, or tax expert. I am just a humble computer nerd
-trying to do his best. I rely on the advice of professionals. When they fail
-me, things can go badly.
-
 All of the above is true to the best of my knowledge and I have done the best I
 can to support it all with documentation. Note that the truth is an affirmative
 defense to any accusations of libel so I'm in good stead there. I'm also
 recently divorced, broke, had an insolvent business thanks to an embezzling
 partner, and have negative net worth with no assets to speak of. So anyone
-coming after me would be wasting their time anyway. This is published in the
-interest of preventing someone else in the community from befalling the same
-ill fate that I have.
+coming after me for anything would be wasting their time anyway. This is
+published in the interest of preventing someone else in the community from
+befalling the same ill fate that I have.
 
 Email me at treed@ultraviolet.org with questions.
