@@ -9,7 +9,7 @@ a partnership. The LLC formation papers and operating agreement showed 3
 partners. But Heistein never even asked for the IRS EIN letter, formation
 papers, operating agreement, or any other documentation that I believe he
 should have when filing taxes for such an entity which would have shown that it
-was a partnership. This information was [subpoenad](/Exhibit 202.pdf){:target="_blank"} from him and he was unable to
+was a partnership. This information was [subpoenad](/Exhibit 202.pdf){:target="_blank"} (Attachement 3, C(2) "All documentation showing the members of Copilotco, LLC") from him and he was unable to
 provide it, presumably because he did not have it.  I believe he should have
 had it. Every other tax preparer I have dealt with since has asked for it
 without my prompting.
@@ -21,7 +21,7 @@ knowing that our taxes were being filed incorrectly. I did not learn of this
 problem until the opposing attorney in a legal matter pointed it out. This
 GREATLY complicated the legal matter and cost us dearly.
 
-[Heistein was deposed](/Heistein, David.pdf) in the legal matter. At 21:9-24 we can see that Heistein
+[Heistein was deposed](/Heistein, David.pdf){:target="_blank"} in the legal matter. At 21:9-24 we can see that Heistein
 was asked about what type of business entity it was.
 
 "So when Tracy had first come to us and it was an LLC, you know, we had some
@@ -56,6 +56,92 @@ Q And that was at the inception of the relationship; correct?
 
 A Correct.
 
+Furthermore, in an [email dated July 15, 2020](/'Re_ Statements needed.pdf'){:target="_blank"}  (this is well before Heistein's deposition testimony of 3/3/2022)
+I specifically call out that there are partners and that she was stealing money
+from the company. This should have been a big clue to Heistein that the taxes
+had been filed improperly all these years. Having been reminder of the partner
+situation in this email, I do not understand why it would appear that he
+testified to the contrary. I also do not understand why he did not mention the
+inconsistancy with how we had been filing taxes all these years.
+
+Note that the subpoena referenced above called for Heistein to provide "All
+documentation of communications, if any, of thefts of funds from Copilotco,
+LLC." The above referenced email called out those thefts but Heistein did not
+provide it. I believe that he knew, or should have known, about the partners
+and the theft because of the email which I sent him.
+
+The only option I was given when I called out this theft/embezzlment (breach of
+contract was the legal complaint) in a phone conversation was to account for
+her theft as owner draw for tax purposes. So I ended up paying big taxes on
+that. It turns out this was not only sub-optimal in terms of taxation but it
+also allowed the opposing attorney in our legal matter to claim that since we
+accounted for it as owner draw on our taxes and not some sort of theft or
+embezzlement that is was therefore an authorized draw.
+
+This, combined with the fact that Hamby was not shown as a partner, allowed the
+opposing attorney to spend hours and many thousands of dollars arguing that
+Hamby was not a partner, that he had no standing, that the withdrawls were
+authorized thus there was no embezzlment/theft/breach of contract. This allowed
+him to drag the matter out so far that we effectively ran out of money to
+pursue it and had to dismiss the case.
+
+We were forced to dismiss the case DESPITE THE FACT THAT THE PLAINTIFF ADMITTED
+TO EVERYTHING SHE WAS ACCUSED OF IN HER DEPOSITION TESTIMONY. Really, her
+deposition could not have gone any better for us. We thought this matter would
+soon be over with a reasonable settlement.  
+
+She acknowledged that Hamby is a partner with an ownership interest in the
+company (Trang 179:4-24, Mar 23 2022).
+
+She would take money out without coordinating with anyone to the point that
+overdraft fees happened and she just relied on the bank teller to tell her when
+the account was empty. (Trang 106:9-14, Feb 4, 2022)
+
+She would write checks to herself on the company account payable to cash
+without authorization. (Trang 108-110:15-10 Feb 4, 2022)
+
+She bought herself an iPad/Macbook/etc (which she never provided to the company) (Trang 117:9-23 Feb 4, 2022).
+
+She was paying off her personal Target card which used for personal expenses from the company account. (Trang 128-129:19-16)
+
+This activity continued even after she was well aware that she should not be spending money from the company account.
+
+She made it very clear on page 133 lines 3-11:
+
+"I never treat Copilotco U.S. Bank account as a business account. In my mind, since the Day One we start the business and open that U.S. Bank account, it is always our joint account and I treat it just like the other Bank of America account I own and Tracy owned and we always take the money out in any account as our income and we file tax for it.  So I don't have that concept of the business account or use for personal account for personal things." - Trang, 133:3-11, Feb 4 2022.
+
+Throughout her deposition she explains how she paid personal expenses out of the company account, did not get authorization, and used the company account like her own personal piggy bank.
+
+Q And Mr. Reed authorized that to be taken from the business?
+
+A I don't need his authorization to take cash out. I have never had that with him.
+
+- Trang, 90:19-22 Feb 4, 2022
+
+So she never had authorization. I agree. 
+
+A "bill of particulars" was produced showing all of her personal expenditures
+on the company account. As far as I can tell, she was unable to produce
+authorization or a business case for any of them.
+
+This is just a sampling. There is so much more in her [deposition](/Deposition of Trang Reed - Transcript - Full - VI[1][2][1].pdf){:target="_blank"}. You would
+think this would be an open and shut case, right? But I believe that her
+attorney knew that he could make such a huge complicated mess out of the tax
+matters thanks to Heistein's work that we could never afford to see the matter
+through to completion. 
+
+Heistein's name was mentioned SO MANY TIMES throughout the matter and we aren't
+even done yet. We even had one particular deposition where I was called upon to
+testify in my capacity as the person most knowledgable in Copilotco tax matters
+and it was all about the taxes Heistein had prepared.
+
+And when we finally did dismiss it because it was now far too complicated and
+expensive to possibly make it to the end, she turns around and sues us (Reed,
+Hamby, AND the attorneys representing us) for malicious prosecution! So it's
+not even over yet. The expenses continue to rack up, well into the hundreds of
+thousands of dollars.  And it is my belief that Heistein is to blame for this
+matter not only not being resolved long ago, but that it continues.
+
 I did not know anything about business taxes, K1, or legal entities. I created
 this thing through LegalZoom. I was just a guy trying to get my first small
 business and entrepreneurial effort started. I'm not an MBA. I'm not am
@@ -68,6 +154,21 @@ of thousands in legal fees, and thousands more to have the taxes prepared
 competently and correctly. The corrected taxes were prepared, filed, and
 accepted by the IRS.
 
-DO NOT USE DAVID HEISTEIN OF PROFITWISE ACCOUNTING TO PREPARE YOUR TAXES.
+DO NOT USE DAVID HEISTEIN OF PROFITWISE ACCOUNTING TO PREPARE YOUR TAXES UNLESS
+YOU WANT TO FIND YOURSELF IN AN INTRACTIBLY COMPLICATED AND RUINOUSLY EXPENSIVE
+LEGAL QUAGMIRE LIKE I DID.
+
+I am no attorney, accountant, or tax expert. I am just a humble computer nerd
+trying to do his best. I rely on the advice of professionals. When they fail
+me, things can go badly.
+
+All of the above is true to the best of my knowledge and I have done the best I
+can to support it all with documentation. Note that the truth is an affirmative
+defense to any accusations of libel so I'm in good stead there. I'm also
+recently divorced, broke, had an insolvent business thanks to an embezzling
+partner, and have negative net worth with no assets to speak of. So anyone
+coming after me would be wasting their time anyway. This is published in the
+interest of preventing someone else in the community from befalling the same
+ill fate that I have.
 
 Email me at treed@ultraviolet.org with questions.
