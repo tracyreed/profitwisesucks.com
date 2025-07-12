@@ -10,7 +10,7 @@ partners. But Heistein never even asked for the IRS EIN letter, formation
 papers, operating agreement, or any other documentation that I believe he
 should have when filing taxes for such an entity which would have shown that it
 was a partnership. This information was [subpoenaed](/Exhibit 202.pdf){:target="_blank"} 
-(Attachement 3, C(2)) "All documentation showing the members of Copilotco,
+(Attachment 3, C(2)) "All documentation showing the members of Copilotco,
 LLC") from him and he failed to provide it, presumably because he did not have
 it.  I believe he should have had it. Every other tax preparer I have dealt
 with since has asked for it without my prompting.
