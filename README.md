@@ -6,7 +6,7 @@ I believe he was extremely negligent and/or incompetent in this regard and that 
 
 The [IRS EIN letter](/EIN1-9779790.pdf){:target="_blank"} I was sent when I formed the LLC clearly showed that it was
 a partnership. The [LLC formation papers](/9779790 Articles Filed.pdf){:target="_blank"} and 
-[operating agreement](/9779790_MEMOA.pdf){:target="_blank"} and first [statement of information](/legal zoom SOI.pdf{:target="_blank"}) 
+[operating agreement](/9779790_MEMOA.pdf){:target="_blank"} and first [statement of information](/legal zoom SOI.pdf){:target="_blank"}) 
 showed 3 partners. But Heistein never even asked for the IRS EIN letter,
 formation papers, operating agreement, or any other documentation that I
 believe he should have when filing taxes for such an entity which would have
