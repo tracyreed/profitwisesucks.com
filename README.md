@@ -136,11 +136,13 @@ A I don't need his authorization to take cash out. I have never had that with hi
 
 - Trang Dep. 90:19-22 Feb 4, 2022
 
-A "bill of particulars" was produced showing all of her personal expenditures
-on the company account. As far as I can tell, she was unable to produce
-authorization or a business case for any of them.
+This is just a sampling. There is so much more crazy financial behavior in her 
+[deposition](/Deposition of Trang Reed - Transcript - Full - VI[1][2][1].pdf){:target="_blank"}. 
 
-This is just a sampling. There is so much more crazy financial behavior in her [deposition](/Deposition of Trang Reed - Transcript - Full - VI[1][2][1].pdf){:target="_blank"}. 
+A "bill of particulars" was produced showing all of her personal expenditures
+on the company account totalling in the neighborhood of $180,000. As far as I
+can tell, she was unable to produce authorization or a business case for any of
+it.
 
 So this should be an open and shut case, right?  But I believe that her
 attorney knew that he could make such a huge complicated mess out of the tax
@@ -161,7 +163,9 @@ Mar 16 2022 deposition of Tracy Reed in his personal capacity the word “tax”
 
 Oct 31 2023 deposition of Tracy Reed as PMK of Copilotco the word “tax” appears 181 times and “Heistein” appears 168 times and "partnership" is mentioned 36 times.
 
-And when we finally did dismiss it because it was now far too complicated and
+And then, of course, there's Heistein's deposition which was all about the taxes.
+
+When we finally had to dismiss because it was now far too complicated and
 expensive to possibly make it to the end, she turns around and sues us (Reed,
 Hamby, AND the attorneys representing us) for malicious prosecution! So it's
 not even over yet. The expenses continue to rack up, well into the hundreds of
