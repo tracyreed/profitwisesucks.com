@@ -64,7 +64,7 @@ Q And that was at the inception of the relationship; correct?
 A Correct.
 
 Furthermore, in an [email dated July 15, 2020](/Re_ Statements needed.pdf){:target="_blank"}  (this is well before Heistein's deposition testimony of 3/3/2022)
-I specifically call out that there are partners and that she was stealing money
+I specifically call out that there are partners and that one was stealing money
 from the company. This should have been a big clue to Heistein that the taxes
 had been filed improperly all these years. Having been reminded of the partner
 situation in this email, I do not understand why it would appear that he
