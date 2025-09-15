@@ -54,14 +54,14 @@ partner, wouldn't you look to the formation papers?
 
 And at Heistein Dep. 89:10, Mar 2 2022 we have:
 
-Q And I know you don't remember the name necessarily, Roderick Hamby, but you
+Q: And I know you don't remember the name necessarily, Roderick Hamby, but you
 do recall a discussion about another potential participant in the LLC; correct?
 
-A Correct.
+A: Correct.
 
-Q And that was at the inception of the relationship; correct?
+Q: And that was at the inception of the relationship; correct?
 
-A Correct.
+A: Correct.
 
 Furthermore, in an [email dated July 15, 2020](/Re_ Statements needed.pdf){:target="_blank"}  (this is well before Heistein's deposition testimony of 3/3/2022)
 I specifically call out that there are partners and that one was stealing money
@@ -130,9 +130,9 @@ Throughout her deposition she explains how she paid personal expenses out of
 the company account, did not get authorization, and used the company account
 like her own personal piggy bank.
 
-Q And Mr. Reed authorized that to be taken from the business?
+Q: And Mr. Reed authorized that to be taken from the business?
 
-A I don't need his authorization to take cash out. I have never had that with him.
+A: I don't need his authorization to take cash out. I have never had that with him.
 
 - Trang Dep. 90:19-22 Feb 4, 2022
 
