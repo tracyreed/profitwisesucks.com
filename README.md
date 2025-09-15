@@ -134,7 +134,7 @@ Q: And Mr. Reed authorized that to be taken from the business?
 
 A: I don't need his authorization to take cash out. I have never had that with him.
 
-- Trang Dep. 90:19-22 Feb 4, 2022
+ -- Trang Dep. 90:19-22 Feb 4, 2022
 
 This is just a sampling. There is so much more crazy financial behavior in her 
 [deposition](/Deposition of Trang Reed - Transcript - Full - VI[1][2][1].pdf){:target="_blank"}. 
@@ -189,13 +189,12 @@ DO NOT USE DAVID HEISTEIN OF PROFITWISE ACCOUNTING TO PREPARE YOUR TAXES UNLESS
 YOU WANT TO FIND YOURSELF IN AN INTRACTIBLY COMPLICATED AND RUINOUSLY EXPENSIVE
 LEGAL QUAGMIRE LIKE I DID.
 
-All of the above is true to the best of my knowledge and I have done the best I
-can to support it all with documentation. Note that the truth is an affirmative
-defense to accusations of libel so I'm in good stead there. I'm also recently
-divorced, broke, had an insolvent business thanks to an embezzling partner, and
-have deeply negative net worth with no assets to speak of. So anyone coming
-after me for anything would be wasting their time anyway. This is published in
-the interest of preventing someone else in the community from befalling the
-same ill fate that I have.
+All of the above is true to the best of my knowledge and I have supported it
+all with documentation. Note that the truth is an affirmative defense to
+accusations of libel. I'm also recently divorced, broke, had an insolvent
+business thanks to an embezzling partner, and have deeply negative net worth
+with no assets to speak of. So anyone coming after me for anything would be
+wasting their time anyway. This is published in the interest of preventing
+someone else in the community from befalling the same ill fate that I have.
 
 Email me at treed@ultraviolet.org with questions.
