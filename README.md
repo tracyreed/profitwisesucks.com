@@ -180,7 +180,7 @@ defendant Trang is, ironically). I rely on professionals to keep me out of tax
 trouble, particularly in these complicated business situations. And the way I
 see it, Heistein totally failed me.
 
-This has cost me [tens of thousands in penalties to the IRS](/irs-notices), hundreds of
+This has cost me [tens of thousands in penalties to the IRS](https://drive.google.com/drive/folders/1qmLahF0dPZALXU3L8SL_dhw0fnexoYh2?usp=sharing){:target="_blank"}, hundreds of
 thousands in legal fees, and thousands more to have the taxes prepared
 competently and correctly. The corrected taxes were prepared, filed, and
 accepted by the IRS.
